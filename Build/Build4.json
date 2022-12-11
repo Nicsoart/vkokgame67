@@ -1,0 +1,16 @@
+{
+"companyName": "Nicso Games",
+"productName": "Zombie Raid",
+"productVersion": "2",
+"dataUrl": "Build4.data.unityweb",
+"wasmCodeUrl": "Build4.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
